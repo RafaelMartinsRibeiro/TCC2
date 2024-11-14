@@ -1,12 +1,3 @@
-<h1 align="center">
-  <img alt="MoveitPng" src=".github/preview.png" width="100%">
-</h1>
-
-<h1 align="center">
-  <img alt="MoveitGif" src=".github/previewGif.gif" width="100%">
-</h1>
-
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
